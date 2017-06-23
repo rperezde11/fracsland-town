@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 931cefd6628d6ac40878536a8219369e
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ' axe '
+    100002: ' fence'
+    100004: ' fence2'
+    100006: ' flag'
+    100008: ' grass'
+    100010: ' Moritz'
+    100012: ' Moritz 1'
+    100014: ' pumpkin '
+    100016: barrel
+    100018: 'bridge '
+    100020: bush
+    100022: cart
+    100024: cart wheel
+    100026: cart wheel 1
+    100028: cheshead
+    100030: chest
+    100032: //RootNode
+    100034: Foliage
+    100036: golden coins
+    100038: grass
+    100040: hause3
+    100042: house
+    100044: house2
+    100046: house4
+    100048: house5
+    100050: ladder
+    100052: lamp
+    100054: lamp chain
+    100056: mushroom
+    100058: mushrooms
+    100060: mushrooms 1
+    100062: mushrooms 2
+    100064: mushrooms 3
+    100066: mushrooms 4
+    100068: mushrooms 5
+    100070: mushrooms 6
+    100072: smallbush
+    100074: spruce
+    100076: stone
+    100078: 'stone '
+    100080: stone  1
+    100082: thinbush
+    100084: watchtower
+    100086: watchtowercastle
+    100088: well
+    100090: well part
+    100092: windmill
+    100094: windmillpart
+    100096: wooden hanger for lamp
+    100098: log2
+    100100: log3
+    100102: stone001
+    100104: stumps
+    100106: watchtower001
+    400000: ' axe '
+    400002: ' fence'
+    400004: ' fence2'
+    400006: ' flag'
+    400008: ' grass'
+    400010: ' Moritz'
+    400012: ' Moritz 1'
+    400014: ' pumpkin '
+    400016: barrel
+    400018: 'bridge '
+    400020: bush
+    400022: cart
+    400024: cart wheel
+    400026: cart wheel 1
+    400028: cheshead
+    400030: chest
+    400032: //RootNode
+    400034: Foliage
+    400036: golden coins
+    400038: grass
+    400040: hause3
+    400042: house
+    400044: house2
+    400046: house4
+    400048: house5
+    400050: ladder
+    400052: lamp
+    400054: lamp chain
+    400056: mushroom
+    400058: mushrooms
+    400060: mushrooms 1
+    400062: mushrooms 2
+    400064: mushrooms 3
+    400066: mushrooms 4
+    400068: mushrooms 5
+    400070: mushrooms 6
+    400072: smallbush
+    400074: spruce
+    400076: stone
+    400078: 'stone '
+    400080: stone  1
+    400082: thinbush
+    400084: watchtower
+    400086: watchtowercastle
+    400088: well
+    400090: well part
+    400092: windmill
+    400094: windmillpart
+    400096: wooden hanger for lamp
+    400098: log2
+    400100: log3
+    400102: stone001
+    400104: stumps
+    400106: watchtower001
+    2300000: ' axe '
+    2300002: ' fence'
+    2300004: ' fence2'
+    2300006: ' flag'
+    2300008: ' grass'
+    2300010: ' Moritz'
+    2300012: ' Moritz 1'
+    2300014: ' pumpkin '
+    2300016: barrel
+    2300018: 'bridge '
+    2300020: bush
+    2300022: cart
+    2300024: cart wheel
+    2300026: cart wheel 1
+    2300028: cheshead
+    2300030: chest
+    2300032: Foliage
+    2300034: golden coins
+    2300036: grass
+    2300038: hause3
+    2300040: house
+    2300042: house2
+    2300044: house4
+    2300046: house5
+    2300048: ladder
+    2300050: lamp
+    2300052: lamp chain
+    2300054: mushroom
+    2300056: mushrooms
+    2300058: mushrooms 1
+    2300060: mushrooms 2
+    2300062: mushrooms 3
+    2300064: mushrooms 4
+    2300066: mushrooms 5
+    2300068: mushrooms 6
+    2300070: smallbush
+    2300072: spruce
+    2300074: stone
+    2300076: 'stone '
+    2300078: stone  1
+    2300080: thinbush
+    2300082: watchtower
+    2300084: watchtowercastle
+    2300086: well
+    2300088: well part
+    2300090: windmill
+    2300092: windmillpart
+    2300094: wooden hanger for lamp
+    2300096: log2
+    2300098: log3
+    2300100: stone001
+    2300102: stumps
+    2300104: watchtower001
+    3300000: ' axe '
+    3300002: ' fence'
+    3300004: ' fence2'
+    3300006: ' flag'
+    3300008: ' grass'
+    3300010: ' Moritz'
+    3300012: ' Moritz 1'
+    3300014: ' pumpkin '
+    3300016: barrel
+    3300018: 'bridge '
+    3300020: bush
+    3300022: cart
+    3300024: cart wheel
+    3300026: cart wheel 1
+    3300028: cheshead
+    3300030: chest
+    3300032: Foliage
+    3300034: golden coins
+    3300036: grass
+    3300038: hause3
+    3300040: house
+    3300042: house2
+    3300044: house4
+    3300046: house5
+    3300048: ladder
+    3300050: lamp
+    3300052: lamp chain
+    3300054: mushroom
+    3300056: mushrooms
+    3300058: mushrooms 1
+    3300060: mushrooms 2
+    3300062: mushrooms 3
+    3300064: mushrooms 4
+    3300066: mushrooms 5
+    3300068: mushrooms 6
+    3300070: smallbush
+    3300072: spruce
+    3300074: stone
+    3300076: 'stone '
+    3300078: stone  1
+    3300080: thinbush
+    3300082: watchtower
+    3300084: watchtowercastle
+    3300086: well
+    3300088: well part
+    3300090: windmill
+    3300092: windmillpart
+    3300094: wooden hanger for lamp
+    3300096: log2
+    3300098: log3
+    3300100: stone001
+    3300102: stumps
+    3300104: watchtower001
+    4300000: well
+    4300002: well part
+    4300004: ladder
+    4300006: cart wheel
+    4300008: cart
+    4300010: cart wheel
+    4300012: windmill
+    4300014: windmillpart
+    4300016: house
+    4300018: watchtowercastle
+    4300020: house2
+    4300022: hause3
+    4300024: house5
+    4300026: house4
+    4300028: ' axe '
+    4300030: Foliage
+    4300032: ' Moritz'
+    4300034: ' Moritz'
+    4300036: barrel
+    4300038: mushrooms
+    4300040: mushrooms
+    4300042: mushrooms
+    4300044: mushrooms
+    4300046: mushrooms
+    4300048: mushrooms
+    4300050: mushrooms
+    4300052: mushroom
+    4300054: stone
+    4300056: 'stone '
+    4300058: 'stone '
+    4300060: ' grass'
+    4300062: smallbush
+    4300064: ' pumpkin '
+    4300066: 'bridge '
+    4300068: spruce
+    4300070: ' fence'
+    4300072: ' fence2'
+    4300074: watchtower
+    4300076: ' flag'
+    4300078: chest
+    4300080: cheshead
+    4300082: golden coins
+    4300084: lamp
+    4300086: lamp chain
+    4300088: wooden hanger for lamp
+    4300090: grass
+    4300092: thinbush
+    4300094: bush
+    4300096: stumps
+    4300098: log2
+    4300100: log3
+    4300102: watchtower001
+    4300104: stone001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

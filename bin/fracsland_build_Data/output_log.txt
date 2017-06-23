@@ -1,0 +1,108 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8570 (ID=0x6611)
+    Vendor:   ATI
+    VRAM:     2027 MB
+    Driver:   10.18.14.4029
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\System.Drawing.dll (this message is harmless)
+Loading C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\System.Drawing.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\krakosky\Desktop\fracsland_build_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on LanguageManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on GameController
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on StatsManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on JukeBox
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+ovr_Create(&m_session, &luid) failed: ovr_Create: No HMD attached.
+Failed to create Oculus Session.Compositor failed to initialize.ovr_Create(&m_session, &luid) failed: ovr_Create: No HMD attached.
+Failed to create Oculus Session.Compositor failed to initialize.TerrainData is missing splat texture 1.
+ 
+(Filename:  Line: 204)
+
+UnloadTime: 3.830114 ms
+Could not open file C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load axe1 from C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS
+Could not open file C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load minimapplayer from C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS
+Could not open file C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load npc_hair_10__detail from C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS
+async texture load: failed to load npc_man_09__detail from C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS
+Could not open file C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load Default-Particle from C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS
+Could not open file C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+Could not open file C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load grass-pro from C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS
+async texture load: failed to load grass_last_chance_b from C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS
+Could not open file C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS for read
+ 
+(Filename:  Line: 54)
+
+async texture load: failed to load grass_last_chance_c from C:/Users/krakosky/Desktop/fracsland_build_Data/resources.assets.resS
+UNNASIGNED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1330 -> priority: 1 
+  Thread -> id: 16b0 -> priority: 1 

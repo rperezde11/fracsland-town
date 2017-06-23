@@ -1,0 +1,46 @@
+{
+  "ShaderName" : "Custom/bumped/parallax",
+  "MaterialFolder" : "Materials/bumped/parallax/",
+  "Textures" : [
+    {
+      "PropertyName" : "_MainTex",
+      "HasUnique" : false,
+      "Subfolder" : "",
+      "Name" : "" },
+    {
+      "PropertyName": "_BumpTex",
+      "HasUnique": false,
+      "Subfolder": "",
+      "Name": "bump" },
+    {
+      "PropertyName" : "_ParallaxTex",
+      "HasUnique" : false,
+      "Subfolder" : "",
+      "Name" : "disp" }],
+
+    "Properties" : [
+      {
+        "Name" : "_Smoothness",
+        "Type" : "Float",
+        "MinValue" : 0.0,
+        "MaxValue" : 1.0,
+        "DefaultValue" : 0.5 },
+      {
+        "Name" : "_Specularity",
+        "Type" : "Float",
+        "MinValue" : 0.0,
+        "MaxValue" : 20.0,
+        "DefaultValue" : 20.0 }],
+
+    "LightSettings" : {
+      "Directional" : {
+        "Intensity" : 0.3
+      },
+      "Spot" : {
+        "Intensity" : 0.3
+      },
+      "Point" : {
+        "Intensity" : 1.0,
+        "Range" : 6.0
+      }}
+}

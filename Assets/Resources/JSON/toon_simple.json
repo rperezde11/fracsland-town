@@ -1,0 +1,31 @@
+{
+  "ShaderName" : "Custom/toon/simple",
+  "MaterialFolder" : "Materials/toon/simple/",
+  "Textures" : [
+    {
+      "PropertyName" : "_MainTex",
+      "HasUnique" : false,
+      "Subfolder" : "",
+      "Name" : "" }],
+
+  "Properties" : [
+    {
+      "Name" : "_RimPower",
+      "Type" : "Float",
+      "MinValue" : 0.0,
+      "MaxValue" : 100.0,
+      "DefaultValue" : 2.0
+    }],
+
+  "LightSettings" : {
+    "Directional" : {
+      "Intensity" : 0.3
+    },
+    "Spot" : {
+      "Intensity" : 0.3
+    },
+    "Point" : {
+      "Intensity" : 1.0,
+      "Range" : 6.0
+    }}
+}

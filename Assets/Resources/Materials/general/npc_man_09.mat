@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: npc_man_09
+  m_Shader: {fileID: 4800000, guid: bb560dc747f55f74d841e07f14bd3abd, type: 3}
+  m_ShaderKeywords: _CONTOURTYPE_NONE _RIMTYPE_NONE _RIMTYPE_TWO _TOONTYPE_FLAT
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ExtraTex
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 9abe2e71e1d5f8243a779a0790a837c7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _RampTex
+      second:
+        m_Texture: {fileID: 2800000, guid: cd072a606acf641448700fdf021e4d66, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _ContourType
+      second: 0
+    - first:
+        name: _Outline
+      second: 0.1
+    - first:
+        name: _OutlineWidth
+      second: 0
+    - first:
+        name: _RimPower
+      second: 2
+    - first:
+        name: _RimSoftness
+      second: 0.25
+    - first:
+        name: _RimType
+      second: 4
+    - first:
+        name: _Smoothness
+      second: 0.5
+    - first:
+        name: _Specularity
+      second: 0
+    - first:
+        name: _ToonType
+      second: 1
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _OutlineColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _TintColor
+      second: {r: 1, g: 1, b: 1, a: 1}

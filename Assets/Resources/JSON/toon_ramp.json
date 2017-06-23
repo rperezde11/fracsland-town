@@ -1,0 +1,28 @@
+{
+  "ShaderName" : "Custom/toon/ramp",
+  "MaterialFolder" : "Materials/toon/ramp/",
+  "Textures" : [
+    {
+      "PropertyName" : "_MainTex",
+      "HasUnique" : false,
+      "Subfolder" : "",
+      "Name" : "" },
+    {
+      "PropertyName" : "_RampTex",
+      "HasUnique" : true,
+      "Subfolder" : "ramp",
+      "Name" : "ramp_toon"
+    }],
+
+  "LightSettings" : {
+    "Directional" : {
+      "Intensity" : 0.3
+    },
+    "Spot" : {
+      "Intensity" : 0.3
+    },
+    "Point" : {
+      "Intensity" : 1.0,
+      "Range" : 6.0
+    }}
+}

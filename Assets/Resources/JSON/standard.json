@@ -1,0 +1,22 @@
+{
+  "ShaderName" : "Legacy Shaders/Diffuse",
+  "MaterialFolder" : "Materials/standard/",
+  "Textures" : [
+    {
+      "PropertyName" : "_MainTex",
+      "HasUnique" : false,
+      "Subfolder" : "",
+      "Name" : "" }],
+
+  "LightSettings" : {
+    "Directional" : {
+      "Intensity" : 0.3
+    },
+    "Spot" : {
+      "Intensity" : 0.3
+    },
+    "Point" : {
+      "Intensity" : 1.0,
+      "Range" : 6.0
+    }}
+}
